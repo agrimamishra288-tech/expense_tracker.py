@@ -25,5 +25,5 @@ python expense_tracker.py
 <img width="960" height="1080" alt="Screenshot 2025-11-23 163429" src="https://github.com/user-attachments/assets/4c199c44-9082-43d8-8ba8-33328a2ea702" />
 <img width="960" height="1080" alt="Screenshot 2025-11-23 163540" src="https://github.com/user-attachments/assets/05afaabf-e63d-44a4-832a-e17e0b08ce6e" />
 <img width="1920" height="1080" alt="Screenshot 2025-11-23 163643" src="https://github.com/user-attachments/assets/dab82068-64b8-43fa-86b0-4eee7ad27fe7" />
-<img width="960" height="1080" alt="Screenshot 2025-11-23 163429" src="https://github.com/user-attachments/assets/17178cfb-f5a3-4987-9e6c-ccc1b1936df5" />
+
 
