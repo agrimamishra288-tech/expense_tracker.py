@@ -1,5 +1,22 @@
+# Python cache files
 __pycache__/
 *.pyc
-*.log
+
+# VS Code settings
 .vscode/
-screenshots/
+
+# System files (Windows, Mac)
+Thumbs.db
+.DS_Store
+
+# Virtual environment folders
+venv/
+env/
+
+# Log files
+*.log
+
+# Ignore Excel temporary files
+~$*.csv
+
+# Do NOT ignore screenshots or docs
